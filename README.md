@@ -1,3 +1,11 @@
+The purpose of this repository is to experiment with Drupal development, and learn Drupal in a hands-on fashion. 
+
+I will use a `work_log.csv` file to record my work. The table columns will be: issue, resource citation, and any tags that I deem important. An example will look like this: 
+
+upgrading Drupal 9 on an AWS Bitmani server, https://docs.bitnami.com/virtual-machine/apps/drupal/administration/upgrade//, maintenance mode.
+
+I have already purchased and updated an AWS Bitnami Drupal server, updating from 9.4.9 to 9.5.0, and my next step will be preparing the project for development in Github, testing and applying the proper Git exclude file. I have already used and edited the file provided by the Github Windows application for Drupal 8, but testing on Github is required. After that, I will be editing the landing page. I have already played with the interface within the sample site that Drupal provides during installation, and I will continue doing that in the capacity of an administrator on my AWS site. Then I will investigate styling, and applying Foundation Framework, or Twitter Bootstrap styles to a Drupal 9 page. After that, interacting with a database. Everything after that will be found in the work_log.
+
 <img alt="Drupal Logo" src="https://www.drupal.org/files/Wordmark_blue_RGB.png" height="60px">
 
 Drupal is an open source content management platform supporting a variety of
