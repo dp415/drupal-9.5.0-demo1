@@ -22,8 +22,8 @@ sites/*/tmp
 sites/*/cache
 
 # Ignore drupal core (if not versioning drupal sources)
-vendor
-core
+vendor/
+core/
 modules/README.txt
 profiles/README.txt
 sites/development.services.yml
@@ -51,7 +51,7 @@ update.php
 web.config
 
 # Ignore vendor dependencies and scripts
-vendor
+vendor/
 composer.phar
 composer
 robo.phar
